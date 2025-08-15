@@ -112,7 +112,6 @@ main section{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    font-size: larger;
     
 }
 /* about items */
@@ -140,12 +139,10 @@ main section{
 }
 .skill-tittle{
     font-weight: bold;
-    font-size: larger;
 }
 .section-description{
     text-align: center;
-    padding: 0px 150px;
-    font-size: larger;  
+    padding: 0px 150px;  
 }
 /* resume section style */
 .section-tittle{
@@ -154,7 +151,6 @@ main section{
 .resume-container{
     display: flex;
     gap: 24px;
-    font-size: larger;
     letter-spacing: 1px;
 }
 .experience-sub-tittle{
@@ -183,9 +179,7 @@ footer{
 .footer-column{
     width: 50%;
 }
-p{
-    font-size: larger;
-}
+
 footer input[type="text"], footer input[type="email"], footer textarea {
     height: 64px;
     border-radius: 5px;
