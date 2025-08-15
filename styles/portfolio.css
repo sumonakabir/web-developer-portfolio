@@ -147,6 +147,33 @@ main section{
     padding: 0px 150px;
     font-size: larger;  
 }
+/* resume section style */
+.section-tittle{
+
+}
+.resume-container{
+    display: flex;
+    gap: 24px;
+    font-size: larger;
+    letter-spacing: 1px;
+}
+.experience-sub-tittle{
+   color: #757575;
+   font-size: 20px;
+   font-weight: 600;
+   margin-bottom: 20px;
+
+}
+.experience-description{
+    color: #757575;
+
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download{
+    margin-top: 50px;
+}
 
 
 
